@@ -1,6 +1,7 @@
 *{
     padding: 0;
     margin: 0;
+<<<<<<< HEAD
     box-sizing: border-box;
 }
 .header{
@@ -86,3 +87,41 @@ padding-top: 60px;
 }
 
 
+=======
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.rep{
+    position: relative;
+    left: 500px;
+    
+}
+.popp{
+    display: flex;
+    justify-content: space-evenly;
+
+    }
+    .bot{
+        position: relative;
+        left: 100px;
+    }
+    .con{
+        display: flex;
+        justify-content: space-evenly;
+        right: 100px;
+    }
+    .tree{
+        display: flex;
+        background-color:rgb(0, 102, 255);
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: cover;
+        color: white;
+        justify-content: space-evenly;
+        padding: 10px;
+        margin: solid 2px;
+       
+
+    }
+
+    
+>>>>>>> development
